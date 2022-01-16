@@ -5,7 +5,8 @@
   "version": "1.0.0",
   "publisher": "wytxer",
 	"engines": {
-		"vscode": "^1.42.1"
+		"vscode": "^1.42.1",
+    "node": "16"
 	},
 	"categories": [
 		"Extension Packs"
@@ -45,10 +46,6 @@
 		"typescript": "^3.7.5",
 		"vscode-test": "^1.3.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:wytxer/wy-vscode-kit.git"
-  },
   "extensionPack": [
     "formulahendry.auto-close-tag",
     "formulahendry.auto-rename-tag",
@@ -77,5 +74,23 @@
     "oysun.vuehelper",
     "lihuiwang.vue-alias-skip",
     "ant-design-vue.vscode-ant-design-vue-helper"
-  ]
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/wytxer/wy-vscode-kit/#readme",
+  "keywords": [
+    "docs",
+    "antdv kit docs",
+    "scaffold docs"
+  ],
+  "author": {
+    "name": "wytxer",
+    "url": "https://github.com/wytxer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:wytxer/wy-vscode-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wytxer/wy-vscode-kit/issues"
+  }
 }
