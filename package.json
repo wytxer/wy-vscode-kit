@@ -73,7 +73,8 @@
     "sdras.vue-vscode-snippets",
     "oysun.vuehelper",
     "lihuiwang.vue-alias-skip",
-    "ant-design-vue.vscode-ant-design-vue-helper"
+    "ant-design-vue.vscode-ant-design-vue-helper",
+    "mikestead.dotenv"
   ],
   "license": "MIT",
   "homepage": "https://github.com/wytxer/wy-vscode-kit/#readme",
