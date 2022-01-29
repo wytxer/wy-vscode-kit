@@ -2,7 +2,7 @@
 	"name": "wy-vscode-kit",
 	"displayName": "wy-vscode-kit",
 	"description": "基于 Vue.js 的 VSCode 插件包。",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "publisher": "wytxer",
 	"engines": {
 		"vscode": "^1.62.0",
