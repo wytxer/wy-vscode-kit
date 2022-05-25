@@ -106,4 +106,4 @@ export default {
   "editor.quickSuggestions": {
     "strings": true
   }
-};
+}
